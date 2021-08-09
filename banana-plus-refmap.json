@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "bananaplusdevelopment/mixin/SplashTextMixin": {
+      "get": "Lnet/minecraft/class_4008;method_18174()Ljava/lang/String;"
+    },
+    "bananaplusdevelopment/mixin/TitleScrenMixin": {
+      "init": "Lnet/minecraft/class_442;method_25426()V",
+      "render": "Lnet/minecraft/class_442;method_25394(Lnet/minecraft/class_4587;IIF)V"
+    },
+    "bananaplusdevelopment/mixin/KeyboardInputMixin": {
+      "tick": "Lnet/minecraft/class_743;method_3129(Z)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "bananaplusdevelopment/mixin/SplashTextMixin": {
+        "get": "Lnet/minecraft/class_4008;method_18174()Ljava/lang/String;"
+      },
+      "bananaplusdevelopment/mixin/TitleScrenMixin": {
+        "init": "Lnet/minecraft/class_442;method_25426()V",
+        "render": "Lnet/minecraft/class_442;method_25394(Lnet/minecraft/class_4587;IIF)V"
+      },
+      "bananaplusdevelopment/mixin/KeyboardInputMixin": {
+        "tick": "Lnet/minecraft/class_743;method_3129(Z)V"
+      }
+    }
+  }
+}

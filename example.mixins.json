@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "bananaplusdevelopment.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "TitleScrenMixin",
+    "SplashTextMixin",
+    "KeyboardInputMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "banana-plus-refmap.json"
+}
